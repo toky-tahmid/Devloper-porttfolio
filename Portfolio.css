@@ -1,5 +1,7 @@
+
 body {
     font-family: 'Open Sans', sans-serif;
+    margin: 0;
 }
 
 /* nav setion */
@@ -13,8 +15,6 @@ nav {
     justify-content: space-between;
     align-items: center;
     margin: 0 200px;
-
-
 }
 
 .nav-title {
